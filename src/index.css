@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
