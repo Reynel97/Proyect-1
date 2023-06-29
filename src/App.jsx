@@ -1,8 +1,7 @@
-
-import {useState} from 'react'
 import './App.css'
-import UserCard from './components/userCard'
+import {useState} from 'react'
 import phrases from './data/phrases.json'
+import UserCard from './components/UserCard'
 
 
 
