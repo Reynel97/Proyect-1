@@ -1,4 +1,4 @@
-const UserCard = (props) => {
+const userCard = (props) => {
 
     const {data} = props
  
@@ -14,4 +14,4 @@ const UserCard = (props) => {
      )
  }
  
- export default UserCard
+ export default userCard
